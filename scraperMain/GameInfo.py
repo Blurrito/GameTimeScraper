@@ -95,11 +95,23 @@ class GameCategory:
 class ReleaseDate:
     def __init__(self, releaseDate, gameId):
         self.gameId = gameId
-        self.region = releaseDate.xpath('/strong/text()').get()[:-1]
-        self.date = releaseDate.xpath('./text()').get()
+        self.region = releaseDate.xpath('./strong/text()').get()[:-1]
+        self.date = releaseDate.xpath('./text()').extract()[1]
 
     def print(self):
         print(f"Region: {self.region}\nDate: {self.date}\n")
+
+
+class Metadata:
+    def __init__(self, metadataField, gameId):
+        self.gameId = gameId
+        self.name = metadataField.xpath('./strong/text()').get()
+        self.value = metadataField.xpath('./text()').extract()[1].split(', ')
+
+    def print(self):
+        print(f"\n{self.name}:")
+        for value in self.value:
+            print(f"{value}")
 
 
 class GameInfoSpider(scrapy.Spider):
@@ -107,13 +119,16 @@ class GameInfoSpider(scrapy.Spider):
     gameCount = 157352
 
     def readHeader(self, response):
-        header = response.xpath('//div[contains(@class, "GameHeader_profile_header_game__CH56Y")]')
+        header = response.xpath('//div[@class="GameHeader_profile_header_game__CH56Y"]')
         headerComponents = header.xpath('./div')
         if len(headerComponents) == 0:
             return
 
         self.gameName = headerComponents[0].xpath('./text()').get()
-        statistics = headerComponents[2].xpath('./div/ul/li')
+        statistics = headerComponents[2].xpath('./ul/li')
+        if len(statistics) < 6:
+            return
+
         self.playCount = statistics[0].xpath('./text()').get().split(' ')[0]
         self.backlogCount = statistics[1].xpath('./text()').get().split(' ')[0]
         self.replayCount = statistics[2].xpath('./text()').get().split(' ')[0]
@@ -122,22 +137,18 @@ class GameInfoSpider(scrapy.Spider):
         self.completedCount = statistics[5].xpath('./text()').get().split(' ')[0]
 
     def readMetadata(self, response):
-        self.platforms = []
-        self.genres = []
-        self.developers = []
-        self.publishers = []
-
-        mediumSummaries = response.xpath('//div[contains(@class, "GameSummary_profile_info__HZFQu GameSummary_medium___r_ia")]')
-        if len(mediumSummaries) < 4:
+        metadata = response.xpath('//div[@class="in back_primary shadow_box"]')
+        if len(metadata) == 0:
             return
 
-        self.platforms = mediumSummaries[0].xpath('./text()').get().split(', ')
-        self.genres = mediumSummaries[1].xpath('./text()').get().split(', ')
-        self.developers = mediumSummaries[2].xpath('./text()').get().split(', ')
-        self.publishers = mediumSummaries[3].xpath('./text()').get().split(', ')
+        self.metadataFields = []
+        mediumSummaries = metadata[0].xpath('//div[@class="GameSummary_profile_info__HZFQu GameSummary_medium___r_ia"]')
+        if len(mediumSummaries) > 0:
+            for summary in mediumSummaries:
+                self.metadataFields.append(Metadata(summary, self.gameId))
 
         self.releaseDates = []
-        smallSummaries = response.xpath('//div[contains(@class, "GameSummary_profile_info__HZFQu")]')
+        smallSummaries = metadata[0].xpath('//div[@class="GameSummary_profile_info__HZFQu"]')
         if len(smallSummaries) < 1:
             return
 
@@ -166,7 +177,7 @@ class GameInfoSpider(scrapy.Spider):
 
     def readExpansions(self, response):
         self.expansions = []
-        expansionTable = response.xpath('//div[contains(@class, "in scrollable scroll_blue back_primary shadow_box")]')
+        expansionTable = response.xpath('//div[@class="in scrollable scroll_blue back_primary shadow_box"]')
         if len(expansionTable) > 0:
             tableRows = expansionTable[0].xpath('./table/tbody/tr')
             for tableRow in tableRows:
@@ -178,7 +189,7 @@ class GameInfoSpider(scrapy.Spider):
             return
 
         timeHeaderEntries = timeHeader.xpath('./ul/li')
-        if len(timeHeaderEntries) >= 4:
+        if len(timeHeaderEntries) < 4:
             return
 
         self.main = timeHeaderEntries[0].xpath('./h5/text()').get()
@@ -216,14 +227,46 @@ class GameInfoSpider(scrapy.Spider):
         # Get platform information
         self.readPlatforms(response)
 
+        # Print all gathered information
+        self.print()
+
+    def printHeader(self):
+        print(f"\n{self.gameName}:\n"
+              f"Played by {self.playCount} people\n"
+              f"Completed by {self.completedCount} people\n"
+              f"Replayed by {self.replayCount} people\n"
+              f"In {self.backlogCount} people's backlog\n"
+              f"Retired by {self.backlogCount} people\n"
+              f"Average rating: {self.rating}\n")
+
+        print(f"\nAverage completion times:\n"
+              f"Main campaign: {self.main}\n"
+              f"+ Side content: {self.side}\n"
+              f"+ Miscellaneous content: {self.complete}\n"
+              f"Combined: {self.all}\n")
+
+    def printMetadata(self):
+        for metadataField in self.metadataFields:
+            metadataField.print()
+
+        print("\nRelease dates:\n")
+        for releaseDate in self.releaseDates:
+            releaseDate.print()
+
     def print(self):
-        print(f"main: {self.main}\nside: {self.side}\ncomplete: {self.complete}\nall: {self.all}\n")
+        self.printHeader()
+        self.printMetadata()
+
         for category in self.categories:
             category.print()
 
         print("\nExpansions:\n")
         for expansion in self.expansions:
             expansion.print()
+
+        print("\nPlatforms:\n")
+        for platform in self.platforms:
+            platform.print()
 
     def  start_requests(self):
         url = 'https://howlongtobeat.com/game/68151'
