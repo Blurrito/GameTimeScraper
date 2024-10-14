@@ -1,0 +1,175 @@
+gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
+20001,Single-Player,Main Story,2,7:26:0,7:26:0,6:47:0,8:5:0
+20001,Single-Player,Main + Extras,1,6:11:0,6:11:0,6:11:0,6:11:0
+20001,Single-Player,All PlayStyles,3,7:1:0,6:11:0,6:22:0,7:40:0
+20002,Single-Player,Main Story,2,18:57:0,18:57:0,18:26:0,19:28:0
+20002,Single-Player,All PlayStyles,2,18:57:0,18:57:0,18:26:0,19:28:0
+20003,Single-Player,Main Story,1,10:0:0,10:0:0,10:0:0,10:0:0
+20003,Single-Player,All PlayStyles,1,10:0:0,10:0:0,10:0:0,10:0:0
+20004,Single-Player,Main Story,3,21:40:0,20:0:0,17:55:0,25:25:0
+20004,Single-Player,Main + Extras,3,21:0:0,18:0:0,17:15:0,24:45:0
+20004,Single-Player,Completionist,1,25:0:0,25:0:0,25:0:0,25:0:0
+20004,Single-Player,All PlayStyles,7,21:51:0,20:0:0,17:57:0,25:27:0
+20011,Single-Player,Main Story,5,5:3:0,5:0:0,3:53:0,5:57:0
+20011,Single-Player,Main + Extras,1,7:0:0,7:0:0,7:0:0,7:0:0
+20011,Single-Player,All PlayStyles,6,5:23:0,5:30:0,4:5:0,6:13:0
+20013,Single-Player,Main Story,5,7:24:0,6:0:0,4:6:0,13:21:0
+20013,Single-Player,All PlayStyles,5,7:24:0,6:0:0,4:6:0,13:21:0
+20016,Single-Player,Main Story,3,11:50:0,10:0:0,9:12:0,14:27:0
+20016,Single-Player,Main + Extras,1,5:30:0,5:30:0,5:30:0,5:30:0
+20016,Single-Player,Completionist,3,27:21:0,25:56:0,18:44:0,35:58:0
+20016,Single-Player,All PlayStyles,7,17:34:0,10:50:0,9:51:0,29:45:0
+20019,Single-Player,Main Story,4,18:5:0,19:4:0,14:47:0,20:54:0
+20019,Single-Player,Completionist,2,20:5:0,20:5:0,15:32:0,24:37:0
+20019,Single-Player,All PlayStyles,6,18:45:0,19:4:0,14:57:0,24:2:0
+20020,Single-Player,Completionist,1,30:0:0,30:0:0,30:0:0,30:0:0
+20020,Single-Player,All PlayStyles,1,30:0:0,30:0:0,30:0:0,30:0:0
+20023,Single-Player,Main Story,5,2:21:0,2:0:0,1:52:0,3:5:0
+20023,Single-Player,Main + Extras,1,2:0:0,2:0:0,2:0:0,2:0:0
+20023,Single-Player,All PlayStyles,6,2:17:0,2:0:0,1:51:0,3:4:0
+20025,Single-Player,Main Story,2,10:0:0,10:0:0,10:0:0,10:0:0
+20025,Single-Player,All PlayStyles,2,10:0:0,10:0:0,10:0:0,10:0:0
+20028,Single-Player,Main Story,2,5:24:0,5:24:0,5:12:0,5:36:0
+20028,Single-Player,Main + Extras,1,8:30:0,8:30:0,8:30:0,8:30:0
+20028,Single-Player,Completionist,2,13:55:0,13:55:0,12:27:0,15:23:0
+20028,Single-Player,All PlayStyles,5,9:25:0,8:30:0,6:58:0,12:54:0
+20029,Single-Player,Main Story,2,0:57:0,0:57:0,0:40:0,1:14:0
+20029,Single-Player,Main + Extras,1,8:0:0,8:0:0,8:0:0,8:0:0
+20029,Single-Player,Completionist,2,6:46:0,6:46:0,6:23:0,7:9:0
+20029,Single-Player,All PlayStyles,5,4:41:0,6:0:0,2:51:0,6:40:0
+20030,Single-Player,Main Story,19,22:0:0,20:13:0,17:21:0,28:3:0
+20030,Single-Player,Main + Extras,11,28:17:0,26:0:0,23:34:0,38:10:0
+20030,Single-Player,Completionist,8,29:50:0,29:0:0,27:42:0,33:29:0
+20030,Single-Player,All PlayStyles,38,25:28:0,26:0:0,19:39:0,37:28:0
+20034,Single-Player,Main Story,1,8:10:0,8:10:0,8:10:0,8:10:0
+20034,Single-Player,Main + Extras,3,8:24:0,9:0:0,7:36:0,9:13:0
+20034,Single-Player,Completionist,3,10:40:0,11:0:0,9:55:0,11:25:0
+20034,Single-Player,All PlayStyles,7,9:20:0,9:0:0,7:50:0,10:35:0
+20035,Single-Player,Main Story,2,22:30:0,22:30:0,21:15:0,23:45:0
+20035,Single-Player,Completionist,1,20:0:0,20:0:0,20:0:0,20:0:0
+20035,Single-Player,All PlayStyles,3,21:40:0,20:0:0,20:25:0,22:55:0
+20036,Single-Player,Main Story,4,7:48:0,7:36:0,6:51:0,8:51:0
+20036,Single-Player,All PlayStyles,4,7:48:0,7:36:0,6:51:0,8:51:0
+20039,Single-Player,Main + Extras,1,15:37:0,15:37:0,15:37:0,15:37:0
+20039,Single-Player,All PlayStyles,1,15:37:0,15:37:0,15:37:0,15:37:0
+20040,Single-Player,Main + Extras,1,11:57:0,11:57:0,11:57:0,11:57:0
+20040,Single-Player,All PlayStyles,1,11:57:0,11:57:0,11:57:0,11:57:0
+20041,Single-Player,Main + Extras,1,12:14:0,12:14:0,12:14:0,12:14:0
+20041,Single-Player,All PlayStyles,1,12:14:0,12:14:0,12:14:0,12:14:0
+20044,Single-Player,Main Story,3,6:26:0,6:30:0,6:8:0,6:44:0
+20044,Single-Player,Main + Extras,1,6:40:0,6:40:0,6:40:0,6:40:0
+20044,Single-Player,Completionist,1,15:0:0,15:0:0,15:0:0,15:0:0
+20044,Single-Player,All PlayStyles,5,8:11:0,6:40:0,6:37:0,11:12:0
+20045,Single-Player,Main Story,44,4:46:0,4:37:0,3:44:0,6:21:0
+20045,Single-Player,Main + Extras,77,6:0:0,5:36:0,4:42:0,7:59:0
+20045,Single-Player,Completionist,53,10:45:0,10:0:0,7:26:0,18:40:0
+20045,Single-Player,All PlayStyles,174,7:8:0,6:0:0,4:40:0,16:46:0
+20045,Speedruns,Any%,2,1:17:30,1:17:30,1:13:0,1:22:0
+20046,Single-Player,Main Story,32,5:11:0,5:0:0,3:17:0,8:45:0
+20046,Single-Player,Main + Extras,50,5:31:0,5:11:0,3:35:0,13:20:0
+20046,Single-Player,Completionist,24,6:20:0,6:18:0,4:14:0,9:9:0
+20046,Single-Player,All PlayStyles,106,5:36:0,5:0:0,3:24:0,13:19:0
+20048,Single-Player,Main Story,1,80:0:0,80:0:0,80:0:0,80:0:0
+20048,Single-Player,Main + Extras,1,150:0:0,150:0:0,150:0:0,150:0:0
+20048,Single-Player,Completionist,1,100:0:0,100:0:0,100:0:0,100:0:0
+20048,Single-Player,All PlayStyles,3,110:0:0,100:0:0,92:30:0,127:30:0
+20064,Single-Player,Main Story,458,5:45:0,5:40:0,4:21:0,7:51:0
+20064,Single-Player,Main + Extras,281,7:8:0,6:37:0,5:26:0,14:46:0
+20064,Single-Player,Completionist,145,10:32:0,10:0:0,7:34:0,15:42:0
+20064,Single-Player,All PlayStyles,884,6:59:0,6:0:0,4:44:0,14:34:0
+20063,Single-Player,Main Story,10,9:48:0,9:10:0,7:38:0,12:32:0
+20063,Single-Player,Main + Extras,14,12:39:0,13:20:0,8:29:0,16:59:0
+20063,Single-Player,Completionist,1,17:20:0,17:20:0,17:20:0,17:20:0
+20063,Single-Player,All PlayStyles,25,11:42:0,11:20:0,7:45:0,16:15:0
+20063,Speedruns,Any%,1,1:40:0,1:40:0,1:40:0,1:40:0
+20065,Single-Player,Main Story,97,8:23:0,8:0:0,6:16:0,12:5:0
+20065,Single-Player,Main + Extras,98,12:14:0,12:0:0,9:3:0,21:22:0
+20065,Single-Player,Completionist,73,15:33:0,14:0:0,11:23:0,26:58:0
+20065,Single-Player,All PlayStyles,268,11:45:0,11:0:0,7:51:0,25:16:0
+20067,Single-Player,Main Story,634,7:23:0,7:5:0,5:47:0,9:53:0
+20067,Single-Player,Main + Extras,283,8:33:0,8:16:0,6:52:0,13:12:0
+20067,Single-Player,Completionist,366,10:34:0,10:0:0,7:35:0,24:34:0
+20067,Single-Player,All PlayStyles,1300,8:33:0,8:0:0,6:19:0,23:34:0
+20067,Speedruns,Any%,1,4:32:56,4:32:56,4:32:56,4:32:56
+20069,Single-Player,Completionist,1,100:0:0,100:0:0,100:0:0,100:0:0
+20069,Single-Player,All PlayStyles,1,100:0:0,100:0:0,100:0:0,100:0:0
+20068,Single-Player,Completionist,1,40:0:0,40:0:0,40:0:0,40:0:0
+20068,Single-Player,All PlayStyles,1,40:0:0,40:0:0,40:0:0,40:0:0
+20070,Single-Player,Main Story,12,7:3:0,7:0:0,5:53:0,8:24:0
+20070,Single-Player,Main + Extras,6,11:51:0,12:57:0,10:27:0,13:42:0
+20070,Single-Player,Completionist,4,27:42:0,26:0:0,20:10:0,36:4:0
+20070,Single-Player,All PlayStyles,22,12:7:0,8:36:0,7:33:0,27:49:0
+20071,Single-Player,Main Story,85,2:56:0,3:0:0,2:14:0,5:25:0
+20071,Single-Player,Main + Extras,36,5:17:0,4:33:0,3:32:0,10:27:0
+20071,Single-Player,Completionist,12,8:1:0,7:0:0,5:22:0,13:54:0
+20071,Single-Player,All PlayStyles,133,4:2:0,3:0:0,2:30:0,11:54:0
+20073,Single-Player,Main Story,223,24:28:0,24:0:0,16:43:0,33:7:0
+20073,Single-Player,Main + Extras,489,51:5:0,43:53:0,31:44:0,183:44:0
+20073,Single-Player,Completionist,113,89:27:0,80:0:0,52:23:0,228:3:0
+20073,Single-Player,All PlayStyles,825,49:9:0,39:0:0,26:38:0,207:43:0
+20073,Multi-Player,Co-Op,95,97:30:0,40:0:0,35:0:0,748:0:0
+20073,Multi-Player,Competitive,20,33:0:0,16:0:0,13:30:0,112:0:0
+20072,Single-Player,Main Story,33,33:37:0,34:7:0,22:5:0,52:56:0
+20072,Single-Player,Main + Extras,17,65:50:0,60:0:0,43:13:0,89:57:0
+20072,Single-Player,Completionist,7,113:39:0,120:0:0,86:23:0,143:24:0
+20072,Single-Player,All PlayStyles,57,53:3:0,40:0:0,28:24:0,108:15:0
+20075,Single-Player,Main Story,5,2:33:0,2:33:0,2:19:0,2:55:0
+20075,Single-Player,All PlayStyles,5,2:33:0,2:33:0,2:19:0,2:55:0
+20074,Single-Player,Main Story,119,30:38:0,30:0:0,20:16:0,44:9:0
+20074,Single-Player,Main + Extras,197,83:54:0,70:0:0,46:13:0,248:10:0
+20074,Single-Player,Completionist,89,181:58:0,123:0:0,88:44:0,2204:32:0
+20074,Single-Player,All PlayStyles,405,89:48:0,60:0:0,42:34:0,2165:45:0
+20074,Speedruns,Any%,1,4:0:0,4:0:0,4:0:0,4:0:0
+20074,Multi-Player,Co-Op,7,74:0:0,44:0:0,30:30:0,130:0:0
+20074,Multi-Player,Competitive,2,5:0:0,5:0:0,2:30:0,8:0:0
+20077,Single-Player,Main Story,3100,15:11:0,15:0:0,11:32:0,21:2:0
+20077,Single-Player,Main + Extras,1500,18:23:0,17:24:0,12:27:0,35:26:0
+20077,Single-Player,Completionist,246,32:33:0,30:0:0,22:48:0,53:0:0
+20077,Single-Player,All PlayStyles,4800,17:2:0,15:46:0,11:42:0,45:34:0
+20077,Speedruns,Any%,38,5:16:50,5:20:16,3:45:0,7:30:0
+20077,Speedruns,100%,4,7:42:38,7:11:22,5:55:48,10:32:0
+20077,Multi-Player,Co-Op,19,21:30:0,5:0:0,7:0:0,106:0:0
+20077,Multi-Player,Competitive,65,34:0:0,5:0:0,10:0:0,410:0:0
+20076,Single-Player,Main Story,1800,1:56:0,1:58:0,1:28:0,3:17:0
+20076,Single-Player,Main + Extras,737,2:32:0,2:22:0,1:43:0,4:13:0
+20076,Single-Player,Completionist,552,4:2:0,3:54:0,2:44:0,8:29:0
+20076,Single-Player,All PlayStyles,3100,2:26:0,2:0:0,1:36:0,7:36:0
+20076,Speedruns,Any%,2,1:7:26,1:7:26,0:49:4,1:25:47
+20078,Single-Player,Main Story,517,9:4:0,8:45:0,6:21:0,15:27:0
+20078,Single-Player,Main + Extras,608,12:27:0,12:0:0,8:55:0,20:6:0
+20078,Single-Player,Completionist,73,24:55:0,23:18:0,17:53:0,32:43:0
+20078,Single-Player,All PlayStyles,1200,11:45:0,10:21:0,7:25:0,26:11:0
+20078,Speedruns,Any%,1,6:45:0,6:45:0,6:45:0,6:45:0
+20079,Single-Player,Main Story,46,8:49:0,8:47:0,6:36:0,13:24:0
+20079,Single-Player,Main + Extras,105,11:38:0,10:13:0,7:44:0,18:4:0
+20079,Single-Player,Completionist,42,14:40:0,10:57:0,9:46:0,43:54:0
+20079,Single-Player,All PlayStyles,193,11:38:0,10:1:0,7:36:0,42:54:0
+20080,Single-Player,Main + Extras,1,20:0:0,20:0:0,20:0:0,20:0:0
+20080,Single-Player,All PlayStyles,1,20:0:0,20:0:0,20:0:0,20:0:0
+20082,Single-Player,Main Story,1,23:0:0,23:0:0,23:0:0,23:0:0
+20082,Single-Player,Completionist,2,49:7:0,49:7:0,45:33:0,52:41:0
+20082,Single-Player,All PlayStyles,3,40:25:0,42:0:0,32:6:0,48:43:0
+20089,Single-Player,Main Story,6,3:21:0,1:28:0,1:27:0,7:32:0
+20089,Single-Player,Main + Extras,4,2:54:0,3:14:0,2:2:0,3:36:0
+20089,Single-Player,Completionist,2,4:31:0,4:31:0,3:45:0,5:16:0
+20089,Single-Player,All PlayStyles,12,3:23:0,3:0:0,1:50:0,7:56:0
+20090,Single-Player,Main Story,1,5:45:0,5:45:0,5:45:0,5:45:0
+20090,Single-Player,All PlayStyles,1,5:45:0,5:45:0,5:45:0,5:45:0
+20091,Single-Player,Main Story,2,8:30:0,8:30:0,5:45:0,11:15:0
+20091,Single-Player,All PlayStyles,2,8:30:0,8:30:0,5:45:0,11:15:0
+20093,Single-Player,Completionist,1,0:15:0,0:15:0,0:15:0,0:15:0
+20093,Single-Player,All PlayStyles,1,0:15:0,0:15:0,0:15:0,0:15:0
+20094,Single-Player,Main Story,20,0:50:0,0:46:0,0:36:0,1:24:0
+20094,Single-Player,Main + Extras,5,1:3:0,1:0:0,0:50:0,1:16:0
+20094,Single-Player,Completionist,3,2:20:0,2:0:0,2:5:0,2:35:0
+20094,Single-Player,All PlayStyles,28,1:2:0,0:50:0,0:40:0,1:58:0
+20094,Multi-Player,Co-Op,4,16:0:0,4:30:0,5:30:0,32:0:0
+20094,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
+20096,Single-Player,Main + Extras,1,35:0:0,35:0:0,35:0:0,35:0:0
+20096,Single-Player,All PlayStyles,1,35:0:0,35:0:0,35:0:0,35:0:0
+20097,Single-Player,Main Story,1,16:0:0,16:0:0,16:0:0,16:0:0
+20097,Single-Player,Main + Extras,2,11:58:0,11:58:0,11:57:0,11:59:0
+20097,Single-Player,Completionist,2,13:54:0,13:54:0,13:51:0,13:57:0
+20097,Single-Player,All PlayStyles,5,13:33:0,13:49:0,12:49:0,14:50:0
+20098,Single-Player,Completionist,1,12:39:0,12:39:0,12:39:0,12:39:0
+20098,Single-Player,All PlayStyles,1,12:39:0,12:39:0,12:39:0,12:39:0

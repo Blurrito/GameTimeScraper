@@ -5,7 +5,13 @@ class ReleaseDate:
         self.region = releaseDate.xpath('./strong/text()').get()[:-1]
 
         dateString = releaseDate.xpath('./text()').extract()[1]
-        self.date = datetime.strptime(dateString, '%B %d, %Y').date()
+        segmentCount = len(dateString.split(' '))
+        if segmentCount == 3:
+            self.date = datetime.strptime(dateString, '%B %d, %Y').date()
+        elif segmentCount == 2:
+            self.date = datetime.strptime(dateString, '%B %Y').date()
+        else:
+            self.date = datetime.strptime(dateString, '%Y').date()
 
     def print(self):
         print(f"Region: {self.region}\nDate: {self.date}\n")

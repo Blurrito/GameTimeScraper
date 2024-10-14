@@ -1,8 +1,9 @@
 from scraperMain.utilities import toNumber, toTimestamp
 
 class AverageTime:
-    def __init__(self, timeHeaderEntry):
+    def __init__(self, timeHeaderEntry, platformName):
         self.categoryName = timeHeaderEntry.xpath('./h4/text()').get()
+        self.platformName = platformName
         self.value = toTimestamp(self, timeHeaderEntry.xpath('./h5/text()').get())
 
     def print(self):
@@ -26,21 +27,34 @@ def readHeader(self, response):
     self.backlogCount = toNumber(self, statistics[1].xpath('./text()').get().split(' ')[0])
     self.replayCount = toNumber(self, statistics[2].xpath('./text()').get().split(' ')[0])
     self.retiredPercentage = float(statistics[3].xpath('./text()').get().split(' ')[0].replace('%', ''))
-    self.rating = float(statistics[4].xpath('./text()').get().split(' ')[0].replace('%', ''))
     self.completedCount = toNumber(self, statistics[5].xpath('./text()').get().split(' ')[0])
 
+    ratingValue = statistics[4].xpath('./text()').get().split(' ')[0]
+    if 'NR' in ratingValue:
+        self.rating = 0
+    else:
+        self.rating = float(ratingValue.replace('%', ''))
+
 def readAverageTimes(self, response):
+    self.headerTimes = []
     timeHeader = response.xpath('//div[contains(@class, "GameStats_game_times__KHrRY")]')
     if len(timeHeader) == 0:
         return
 
-    timeHeaderEntries = timeHeader.xpath('./ul/li')
-    if len(timeHeaderEntries) < 1:
-        return
+    platforms = timeHeader.xpath('./ul/div')
+    if len(platforms) > 0:
+        for platform in platforms:
+            platformName = platform.xpath('./h2/text()').get()
+            platformTimes = platform.xpath('./li')
+            for platformTime in platformTimes:
+                self.headerTimes.append(AverageTime(platformTime, platformName))
+    else:
+        timeHeaderEntries = timeHeader.xpath('./ul/li')
+        if len(timeHeaderEntries) < 1:
+            return
 
-    self.headerTimes = []
-    for timeHeaderEntry in timeHeaderEntries:
-        self.headerTimes.append(AverageTime(timeHeaderEntry))
+        for timeHeaderEntry in timeHeaderEntries:
+            self.headerTimes.append(AverageTime(timeHeaderEntry, 'all'))
 
 def toHeaderCsv(self):
     return [self.gameId, self.gameName, self.playCount, self.backlogCount, self.replayCount, self.retiredPercentage,

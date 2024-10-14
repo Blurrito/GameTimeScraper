@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 def toTimestamp(self, value):
     # Validate category has a recorded time
     if value == '--':
-        return datetime(0,0,0).time()
+        return '0:0:0'
 
     # Determine if it's an exact time or an estimate
     rangeValues = []
@@ -22,6 +22,8 @@ def toTimestamp(self, value):
             strippedValue = strippedValue.replace('½', '') + ' 30m'
         if 'Hours' in value:
             strippedValue = strippedValue.replace(' Hours', 'h')
+        if 'Mins' in value:
+            strippedValue = strippedValue.replace(' Mins', 'm')
         splitValue = strippedValue.split(' ')
 
         # Transform the generalized time to a colon-separated timestamp

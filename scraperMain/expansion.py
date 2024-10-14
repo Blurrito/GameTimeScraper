@@ -16,11 +16,16 @@ class Expansion:
 
         self.id = int(splitHref[len(splitHref) - 1])
         self.polled = toNumber(self, expansionData[1].xpath('./text()').get())
-        self.rated = toNumber(self, expansionData[2].xpath('./text()').get())
         self.main = toTimestamp(self, expansionData[3].xpath('./text()').get())
         self.side = toTimestamp(self, expansionData[4].xpath('./text()').get())
         self.complete = toTimestamp(self, expansionData[5].xpath('./text()').get())
         self.all = toTimestamp(self, expansionData[6].xpath('./text()').get())
+
+        rating = expansionData[2].xpath('./text()').get()
+        if 'NR' in rating:
+            self.rated = 0
+        else:
+            self.rated = toNumber(self, rating)
 
     def print(self):
         print(f"Name: {self.name}\n"

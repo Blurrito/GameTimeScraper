@@ -1,0 +1,362 @@
+gameId,name,value
+20001,Platform,PlayStation 2
+20001,Platform,Xbox
+20001,Genre,Action
+20001,Genre,Racing/Driving
+20001,Developer,Ubisoft
+20001,Publisher,Ubisoft
+20002,Platform,PC
+20002,Genre,Real-Time
+20002,Genre,Strategy
+20002,Developer,Eugen Systems
+20002,Publisher,Atari
+20003,Platform,Xbox 360
+20003,Genre,Racing/Driving
+20003,Genre,Simulation
+20003,Developer,Climax
+20003,Publisher,THQ
+20004,Platform,PC
+20004,Genre,Real-Time
+20004,Genre,Strategy
+20004,Developer,SEK
+20004,Publisher,Sunflowers
+20004,Publisher,Deep Silver
+20005,Genre,Simulation
+20008,Platform,Xbox 360
+20008,Genre,Board Game
+20008,Developer,Microsoft Research
+20008,Publisher,Microsoft Studios
+20009,Platform,Xbox 360
+20009,Genre,Action
+20009,Genre,Puzzle
+20009,Developer,From Software
+20009,Publisher,From Software
+20011,Platform,Nintendo GameCube
+20011,Genre,Fighting
+20011,Genre,Sports
+20011,Developer,Yuke's
+20011,Publisher,THQ
+20011,Publisher,Yuke's
+20013,Platform,Game Boy Advance
+20013,Platform,Nintendo DS
+20013,Platform,PC
+20013,Publisher,Ubisoft
+20016,Platform,PC
+20016,Genre,Real-Time
+20016,Genre,Tactical
+20016,Developer,StormRegion
+20016,Publisher,FishTank Studios
+20016,Alias,S.W.I.N.E. HD Remaster
+20019,Platform,PC
+20019,Genre,Action
+20019,Genre,Role-Playing
+20019,Developer,Metropolis Software House
+20019,Publisher,JoWooD Entertainment
+20019,Publisher,Fishtank Interactive
+20020,Platform,PlayStation
+20020,Genre,Racing/Driving
+20020,Developer,Delphine Software International
+20020,Publisher,Infogrames
+20023,Platform,PlayStation
+20023,Genre,Third-Person
+20023,Genre,Top-Down
+20023,Genre,Action
+20023,Genre,Party
+20023,Developer,The Code Monkeys
+20023,Publisher,TDK Mediactive
+20025,Platform,PlayStation
+20025,Genre,Fighting
+20025,Genre,Sports
+20025,Developer,Black Ops Entertainment
+20025,Publisher,EA Sports
+20026,Platform,PC
+20026,Genre,Action
+20026,Genre,Adventure
+20026,Developer,Adam Butcher
+20028,Platform,PC
+20028,Genre,Tower Defense
+20028,Developer,Dan Walters
+20028,Publisher,Dan Walters
+20029,Platform,Nintendo Switch
+20029,Platform,PC
+20029,Platform,Xbox One
+20029,Genre,Sports
+20029,Developer,PHL Collective
+20029,Publisher,Coatsink
+20030,Platform,PlayStation 2
+20030,Platform,PlayStation Portable
+20030,Platform,Xbox
+20030,Developer,Rockstar San Diego
+20030,Publisher,Rockstar Games
+20034,Platform,Nintendo GameCube
+20034,Platform,PlayStation 2
+20034,Platform,Xbox
+20034,Genre,Action
+20034,Genre,Adventure
+20034,Developer,Warthog
+20034,Publisher,Ignition Entertainment
+20035,Platform,PC
+20035,Genre,Turn-Based
+20035,Genre,Card Game
+20035,Genre,Strategy
+20035,Developer,Konami
+20035,Publisher,Konami
+20035,Alias,Yugioh! Power of Chaos: Yugi the Destiny
+20036,Platform,Game Boy Advance
+20036,Platform,Nintendo GameCube
+20036,Platform,PC
+20036,Platform,PlayStation 2
+20036,Developer,Digital Integration
+20036,Publisher,Titus Software
+20039,Platform,Mobile
+20039,Genre,Role-Playing
+20039,Developer,Hit-Point
+20039,Publisher,Kemco
+20039,Alias,RPG Soul of Deva
+20040,Platform,Mobile
+20040,Genre,Role-Playing
+20040,Developer,MAGITEC
+20040,Publisher,Kemco
+20040,Alias,RPG Shelterra the Skyworld
+20041,Platform,Mobile
+20041,Genre,Role-Playing
+20041,Developer,Exe Create
+20041,Publisher,KEMCO
+20041,Alias,RPG Journey to Kreisia
+20044,Platform,PlayStation 2
+20044,Platform,PlayStation Portable
+20044,Platform,Wii
+20044,Genre,Action
+20044,Developer,Neko Entertainment & Taffy Entertainment
+20044,Publisher,The Game Factory
+20045,Platform,Mobile
+20045,Platform,Nintendo Switch
+20045,Platform,PC
+20045,Platform,PlayStation 4
+20045,Platform,Xbox One
+20045,Genre,Hidden Object
+20045,Developer,Artifex Mundi
+20045,Publisher,Artifex Mundi
+20045,Alias,Grim Legends
+20046,Platform,PC
+20046,Platform,PlayStation 3
+20046,Platform,PlayStation 4
+20046,Platform,Xbox 360
+20046,Platform,Xbox One
+20046,Developer,From Software
+20046,Publisher,Bandai Namco Games
+20046,Publisher,From Software
+20047,Platform,Wii U
+20047,Genre,Interactive Art
+20047,Developer,Headstrong Games
+20047,Publisher,Nintendo
+20048,Platform,PlayStation 2
+20048,Genre,Turn-Based
+20048,Genre,Strategy/Tactical
+20048,Developer,Banpresto
+20048,Publisher,Banpresto
+20048,Alias,Super Robot Wars: Original Generations
+20049,Platform,PlayStation 2
+20049,Genre,Turn-Based
+20049,Genre,Strategy
+20049,Developer,Banpresto
+20049,Publisher,Banpresto
+20055,Platform,PlayStation Portable
+20055,Genre,Turn-Based
+20055,Genre,Strategy
+20055,Developer,Namco Bandai Games
+20055,Publisher,Bandai
+20061,Platform,Nintendo DS
+20061,Genre,Turn-Based
+20061,Genre,Strategy
+20061,Developer,Vanguard
+20061,Publisher,Bandai
+20064,Platform,Nintendo Switch
+20064,Platform,PC
+20064,Platform,PlayStation 4
+20064,Platform,Xbox One
+20064,Genre,Third-Person
+20064,Genre,Adventure
+20064,Genre,Platform
+20064,Developer,Tequila Works
+20064,Publisher,Sony Computer Entertainment
+20063,Platform,PC
+20063,Platform,PlayStation
+20063,Genre,Third-Person
+20063,Genre,Action
+20063,Genre,Adventure
+20063,Genre,Stealth
+20063,Developer,Digital Dialect
+20063,Publisher,Microsoft Game Studios
+20065,Platform,Linux
+20065,Platform,Mac
+20065,Platform,PC
+20065,Platform,PlayStation 4
+20065,Genre,Action
+20065,Genre,Adventure
+20065,Genre,Platform
+20065,Developer,Alientrap
+20065,Publisher,Alientrap
+20067,Platform,PlayStation 4
+20067,Genre,Third-Person
+20067,Genre,Action
+20067,Genre,Adventure
+20067,Genre,Shooter
+20067,Developer,Ready at Dawn
+20067,Developer,SCE Santa Monica Studio
+20067,Publisher,Sony Computer Entertainment
+20069,Platform,PC
+20069,Genre,Role-Playing
+20069,Developer,Aldorlea Games
+20069,Publisher,Aldorlea Games
+20069,Alias,Laxius Power 3
+20068,Platform,PC
+20068,Genre,Role-Playing
+20068,Developer,Aldorlea Games
+20068,Publisher,Aldorlea Games
+20068,Alias,Laxius Power 2
+20070,Platform,Mac
+20070,Platform,PC
+20070,Platform,PlayStation 4
+20070,Genre,Puzzle
+20070,Developer,Spry Fox
+20070,Publisher,Spry Fox
+20071,Platform,Mobile
+20071,Platform,PlayStation 3
+20071,Platform,PlayStation 4
+20071,Platform,PlayStation Vita
+20071,Genre,Scrolling
+20071,Genre,Stealth
+20071,Developer,Dynamighty
+20073,Platform,PC
+20073,Platform,PlayStation 4
+20073,Platform,Xbox One
+20073,Genre,Third-Person
+20073,Genre,Massively Multiplayer
+20073,Genre,Open World
+20073,Genre,Shooter
+20073,Developer,Ubisoft Massive
+20073,Developer,Ubisoft Reflections
+20073,Developer,Ubisoft Red Storm
+20073,Publisher,Ubisoft
+20072,Platform,PC
+20072,Platform,PlayStation 4
+20072,Platform,Xbox One
+20072,Developer,Slightly Mad Studios
+20072,Publisher,Slightly Mad Studios
+20075,Platform,PC
+20075,Genre,Adventure
+20075,Genre,Puzzle
+20075,Developer,Visiontrick Media
+20075,Publisher,Visiontrick Media
+20074,Platform,Mac
+20074,Platform,Nintendo Switch
+20074,Platform,PC
+20074,Platform,PlayStation 4
+20074,Platform,PlayStation 5
+20074,Platform,Xbox One
+20074,Genre,Action
+20074,Genre,Adventure
+20074,Genre,Survival
+20074,Developer,Hello Games
+20074,Publisher,Hello Games
+20077,Platform,PC
+20077,Platform,PlayStation 4
+20077,Platform,PlayStation 5
+20077,Genre,Third-Person
+20077,Genre,Action
+20077,Genre,Adventure
+20077,Genre,Platform
+20077,Genre,Shooter
+20077,Developer,Naughty Dog
+20077,Publisher,Sony Computer Entertainment
+20076,Platform,Nintendo Switch
+20076,Platform,PC
+20076,Platform,PlayStation 4
+20076,Platform,Xbox One
+20076,Genre,Adventure
+20076,Developer,Giant Squid
+20076,Publisher,505 Games
+20076,Alias,ABZU
+20078,Platform,Linux
+20078,Platform,Mac
+20078,Platform,Mobile
+20078,Platform,Nintendo Switch
+20078,Platform,PC
+20078,Platform,PlayStation 4
+20078,Platform,Xbox One
+20078,Genre,Side
+20078,Genre,Adventure
+20078,Developer,Infinite Fall
+20078,Alias,Night in the Woods: Weird Autumn Edition
+20079,Genre,Action
+20079,Genre,Adventure
+20079,Genre,Role-Playing
+20079,Developer,Discord Games
+20079,Publisher,Discord Games
+20080,Platform,PlayStation 4
+20080,Platform,Xbox One
+20080,Genre,Battle Arena
+20080,Developer,Ronimo Games
+20080,Publisher,Ronimo Games
+20082,Platform,PC
+20082,Genre,First-Person
+20082,Genre,Adventure
+20082,Genre,Role-Playing
+20082,Developer,Crafty Studios
+20082,Publisher,United Independent Entertainment
+20082,Alias,Realms of Arkania: Blade of Destiny - Revised
+20083,Genre,First-Person
+20083,Genre,Adventure
+20083,Genre,Role-Playing
+20083,Developer,Crafty Studios
+20083,Publisher,United Independent Entertainment
+20084,Genre,First-Person
+20084,Genre,Adventure
+20084,Genre,Role-Playing
+20084,Developer,Crafty Studios
+20084,Publisher,United Independent Entertainment
+20088,Platform,PC
+20088,Genre,Action
+20088,Developer,Arc-gen
+20088,Publisher,Arc-gen
+20089,Platform,MSX
+20089,Genre,Side
+20089,Genre,Platform
+20089,Developer,Konami
+20089,Publisher,Konami
+20089,Alias,Akumajou Dracula
+20090,Genre,Strategy
+20090,Developer,Image & Form International
+20091,Platform,PC
+20091,Genre,Racing/Driving
+20091,Developer,SimBin Studios
+20091,Publisher,RaceRoom Entertainment
+20093,Genre,Music/Rhythm
+20094,Platform,PC
+20094,Platform,Xbox 360
+20094,Genre,First-Person
+20094,Genre,Horror
+20094,Genre,Shooter
+20094,Genre,Survival
+20094,Developer,Valve
+20094,Publisher,EA
+20096,Genre,Card Game
+20096,Developer,Mobote Games
+20097,Platform,Nintendo 3DS
+20097,Genre,Top-Down
+20097,Genre,Turn-Based
+20097,Genre,Strategy
+20097,Developer,WayForward Technologies
+20097,Publisher,Activision
+20100,Platform,PC
+20100,Genre,Real-Time
+20100,Genre,Action
+20100,Genre,Moba
+20100,Genre,Strategy
+20100,Developer,Treehouse
+20098,Platform,Nintendo DS
+20098,Genre,Puzzle
+20098,Genre,Strategy
+20098,Developer,Grab
+20098,Publisher,Grab

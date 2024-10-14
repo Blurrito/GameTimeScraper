@@ -12,8 +12,8 @@ class GameInfoSpider(scrapy.Spider):
     #gameCount = 157352
     gameCount = 100
 
-    startIndex = 20000
-    stopIndex = 20100
+    startIndex = 1
+    stopIndex = 157848
 
     def toCsv(self, game):
         csvData = game.toCsv()
@@ -54,20 +54,21 @@ class GameInfoSpider(scrapy.Spider):
         game = Game(response)
         self.toCsv(game)
 
-    def requestGame(self):
+    def start_requests(self):
         for index in range(self.startIndex, self.stopIndex + 1, 1):
             # Create artificial delay to prevent spam
-            delaySeconds = float(random.randrange(82, 246)) / 100
+            delaySeconds = float(random.randrange(32, 142)) / 100
             time.sleep(delaySeconds)
 
             url = f'https://howlongtobeat.com/game/{index}'
-            yield scrapy.Request(url=url, callback=self.scrapeData)
+            headers = {'User-Agent': 'PostmanRuntime/7.37.3'}
+            yield scrapy.Request(url=url, headers=headers, callback=self.scrapeData)
 
-    def  start_requests(self):
-        url = 'https://howlongtobeat.com/game/68151'
-        # url = 'https://howlongtobeat.com/game/21286'
-        headers = {'User-Agent': 'PostmanRuntime/7.37.3'}
-        yield scrapy.Request(url=url, headers=headers, callback=self.scrapeData)
+    # def  start_requests(self):
+    #     url = 'https://howlongtobeat.com/game/68151'
+    #     # url = 'https://howlongtobeat.com/game/21286'
+    #     headers = {'User-Agent': 'PostmanRuntime/7.37.3'}
+    #     yield scrapy.Request(url=url, headers=headers, callback=self.scrapeData)
 
 headersDataframe = pd.DataFrame(columns=['gameId', 'gameName', 'playCount', 'backlogCount', 'replayCount',
                                          'retiredPercentage', 'rating', 'completedCount'])

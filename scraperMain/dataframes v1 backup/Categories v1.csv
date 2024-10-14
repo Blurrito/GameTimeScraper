@@ -3216,7 +3216,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 1123,Single-Player,Main Story,29,1:35:0,1:30:0,1:8:0,3:36:0
 1123,Single-Player,Completionist,2,1:45:0,1:45:0,1:37:0,1:52:0
 1123,Single-Player,All PlayStyles,31,1:36:0,1:30:0,1:9:0,3:36:0
-1123,Multi-Player,Co-Op,1,0:20:0,0:20:0,0:20:0,0:20:0
+1123,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 1123,Multi-Player,Competitive,1,7:30:0,7:30:0,7:30:0,7:30:0
 1124,Single-Player,Main Story,75,9:13:0,9:0:0,7:50:0,11:3:0
 1124,Single-Player,Main + Extras,43,10:36:0,10:0:0,8:44:0,17:4:0
@@ -3974,7 +3974,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 1383,Single-Player,All PlayStyles,1300,8:21:0,7:55:0,6:4:0,26:41:0
 1383,Speedruns,Any%,3,3:39:30,3:45:51,3:18:40,3:54:0
 1383,Multi-Player,Co-Op,3,8:30:0,11:0:0,5:30:0,12:0:0
-1383,Multi-Player,Competitive,1,0:15:0,0:15:0,0:15:0,0:15:0
+1383,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 1386,Single-Player,Main Story,125,14:59:0,15:0:0,11:29:0,19:59:0
 1386,Single-Player,Main + Extras,146,20:6:0,20:0:0,14:11:0,35:1:0
 1386,Single-Player,Completionist,82,30:39:0,29:26:0,24:52:0,48:23:0
@@ -10185,7 +10185,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 3458,Single-Player,Completionist,1,36:23:0,36:23:0,36:23:0,36:23:0
 3458,Single-Player,All PlayStyles,14,17:9:0,10:0:0,8:47:0,46:47:0
 3458,Multi-Player,Co-Op,1,7:30:0,7:30:0,7:30:0,7:30:0
-3458,Multi-Player,Competitive,1,0:15:0,0:15:0,0:15:0,0:15:0
+3458,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 3460,Multi-Player,Co-Op,1,12:0:0,12:0:0,12:0:0,12:0:0
 3460,Multi-Player,Competitive,2,49:0:0,49:0:0,39:30:0,58:30:0
 3461,Single-Player,Main Story,2,2:17:0,2:17:0,1:33:0,3:1:0
@@ -11658,7 +11658,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 3980,Single-Player,Completionist,77,14:2:0,14:0:0,10:45:0,24:30:0
 3980,Single-Player,All PlayStyles,827,9:31:0,9:0:0,6:45:0,22:7:0
 3980,Speedruns,Any%,1,4:32:56,4:32:56,4:32:56,4:32:56
-3980,Multi-Player,Co-Op,2,0:45:0,0:45:0,0:32:0,0:57:0
+3980,Multi-Player,Co-Op,2,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 3980,Multi-Player,Competitive,5,20:0:0,8:0:0,8:30:0,31:30:0
 3979,Single-Player,Main Story,8,36:45:0,34:28:0,30:10:0,44:13:0
 3979,Single-Player,Main + Extras,4,37:39:0,35:0:0,28:34:0,48:3:0
@@ -12512,7 +12512,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 4255,Single-Player,Completionist,3,6:45:0,8:0:0,5:38:0,7:53:0
 4255,Single-Player,All PlayStyles,24,4:19:0,4:0:0,3:4:0,6:16:0
 4255,Multi-Player,Co-Op,7,5:30:0,5:30:0,4:0:0,6:30:0
-4255,Multi-Player,Competitive,2,0:22:0,0:22:0,0:22:0,0:22:0
+4255,Multi-Player,Competitive,2,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 4256,Single-Player,Main Story,811,5:29:0,5:5:0,3:45:0,12:38:0
 4256,Single-Player,Main + Extras,233,6:31:0,6:0:0,4:32:0,11:28:0
 4256,Single-Player,Completionist,198,7:20:0,7:0:0,5:35:0,18:16:0
@@ -14257,7 +14257,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 4867,Speedruns,Any%,10,0:55:6,0:49:11,0:34:28,1:30:0
 4867,Speedruns,100%,3,1:24:11,1:39:0,0:53:34,1:40:0
 4867,Multi-Player,Co-Op,37,3:0:0,2:0:0,1:30:0,14:0:0
-4867,Multi-Player,Competitive,1,0:3:0,0:3:0,0:3:0,0:3:0
+4867,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 4869,Single-Player,Main Story,1,0:17:0,0:17:0,0:17:0,0:17:0
 4869,Single-Player,All PlayStyles,1,0:17:0,0:17:0,0:17:0,0:17:0
 4870,Single-Player,Main Story,4,0:35:0,0:35:0,0:30:0,0:40:0
@@ -15298,7 +15298,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 5211,Single-Player,Completionist,2,22:56:0,22:56:0,22:54:0,22:58:0
 5211,Single-Player,All PlayStyles,25,3:7:0,1:30:0,1:22:0,12:39:0
 5211,Multi-Player,Co-Op,5,3:0:0,1:0:0,1:30:0,6:0:0
-5211,Multi-Player,Competitive,1,0:40:0,0:40:0,0:40:0,0:40:0
+5211,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 5213,Single-Player,Main + Extras,1,6:30:0,6:30:0,6:30:0,6:30:0
 5213,Single-Player,All PlayStyles,1,6:30:0,6:30:0,6:30:0,6:30:0
 5215,Single-Player,Main Story,84,11:55:0,12:0:0,8:28:0,16:58:0
@@ -17654,8 +17654,8 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 5932,Single-Player,Completionist,29,4:31:0,3:54:0,2:41:0,8:6:0
 5932,Single-Player,All PlayStyles,432,1:55:0,1:30:0,1:6:0,6:51:0
 5932,Speedruns,Any%,4,1:7:53,1:3:58,0:53:37,1:30:0
-5932,Multi-Player,Co-Op,26,1:30:0,1:30:0,0:45:0,3:0:0
-5932,Multi-Player,Competitive,1,0:37:0,0:37:0,0:37:0,0:37:0
+5932,Multi-Player,Co-Op,26,1:30:0,1:30:0,0:0:Min,3:0:0
+5932,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 5933,Single-Player,Main Story,117,1:2:0,1:0:0,0:49:0,1:45:0
 5933,Single-Player,Main + Extras,10,2:3:0,2:0:0,1:25:0,2:30:0
 5933,Single-Player,Completionist,9,2:49:0,2:20:0,1:47:0,6:17:0
@@ -19298,7 +19298,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 6534,Single-Player,Completionist,179,17:25:0,17:0:0,12:21:0,30:6:0
 6534,Single-Player,All PlayStyles,767,10:49:0,9:0:0,6:12:0,26:27:0
 6534,Speedruns,Any%,8,0:51:8,0:52:31,0:28:38,1:15:49
-6534,Multi-Player,Co-Op,1,0:5:0,0:5:0,0:5:0,0:5:0
+6534,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 6534,Multi-Player,Competitive,6,19:30:0,15:0:0,10:30:0,32:30:0
 6535,Single-Player,Main Story,468,5:37:0,5:16:0,3:29:0,9:17:0
 6535,Single-Player,Main + Extras,274,11:58:0,10:4:0,7:0:0,28:17:0
@@ -20218,7 +20218,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 6875,Single-Player,Completionist,5,26:43:0,25:35:0,21:42:0,33:29:0
 6875,Single-Player,All PlayStyles,106,8:44:0,5:30:0,4:42:0,24:3:0
 6875,Multi-Player,Co-Op,2,9:0:0,9:0:0,6:30:0,11:30:0
-6875,Multi-Player,Competitive,1,0:36:0,0:36:0,0:36:0,0:36:0
+6875,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 6877,Single-Player,Main Story,33,6:6:0,6:0:0,4:7:0,8:35:0
 6877,Single-Player,Main + Extras,16,8:56:0,8:49:0,6:5:0,11:59:0
 6877,Single-Player,Completionist,3,10:51:0,11:0:0,9:57:0,11:44:0
@@ -20894,7 +20894,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 7090,Single-Player,All PlayStyles,22,6:19:0,4:10:0,2:47:0,15:37:0
 7091,Single-Player,Main Story,2,1:0:0,1:0:0,1:0:0,1:0:0
 7091,Single-Player,All PlayStyles,2,1:0:0,1:0:0,1:0:0,1:0:0
-7091,Multi-Player,Co-Op,1,0:5:0,0:5:0,0:5:0,0:5:0
+7091,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 7091,Multi-Player,Competitive,3,2:30:0,2:0:0,1:30:0,3:30:0
 7092,Single-Player,Completionist,1,5:0:0,5:0:0,5:0:0,5:0:0
 7092,Single-Player,All PlayStyles,1,5:0:0,5:0:0,5:0:0,5:0:0
@@ -22437,7 +22437,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 7597,Single-Player,Completionist,69,16:37:0,16:21:0,11:38:0,23:19:0
 7597,Single-Player,All PlayStyles,264,10:40:0,9:0:0,7:6:0,20:0:0
 7597,Multi-Player,Co-Op,3,5:0:0,6:30:0,4:0:0,6:30:0
-7597,Multi-Player,Competitive,1,0:30:0,0:30:0,0:30:0,0:30:0
+7597,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 7599,Single-Player,Main Story,7,5:4:0,5:35:0,4:8:0,6:9:0
 7599,Single-Player,All PlayStyles,7,5:4:0,5:35:0,4:8:0,6:9:0
 7601,Single-Player,Main Story,4,5:11:0,5:23:0,3:38:0,6:38:0
@@ -25002,7 +25002,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 8509,Single-Player,Completionist,14,54:19:0,51:0:0,38:49:0,83:49:0
 8509,Single-Player,All PlayStyles,62,18:42:0,6:0:0,7:10:0,63:40:0
 8509,Multi-Player,Co-Op,2,17:0:0,17:0:0,10:30:0,23:30:0
-8509,Multi-Player,Competitive,1,0:15:0,0:15:0,0:15:0,0:15:0
+8509,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 8510,Single-Player,Main Story,224,46:23:0,32:23:0,23:11:0,219:41:0
 8510,Single-Player,Main + Extras,200,144:18:0,102:49:0,64:46:0,473:13:0
 8510,Single-Player,Completionist,46,512:20:0,349:27:0,256:26:0,1115:26:0
@@ -25810,7 +25810,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 8774,Single-Player,All PlayStyles,59,5:2:0,3:56:0,2:25:0,17:49:0
 8774,Speedruns,Any%,1,1:6:28,1:6:28,1:6:28,1:6:28
 8774,Multi-Player,Co-Op,1,20:0:0,20:0:0,20:0:0,20:0:0
-8774,Multi-Player,Competitive,1,0:15:0,0:15:0,0:15:0,0:15:0
+8774,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 8773,Single-Player,Main Story,51,5:1:0,5:32:0,3:2:0,7:8:0
 8773,Single-Player,Main + Extras,23,15:46:0,10:0:0,8:5:0,62:26:0
 8773,Single-Player,Completionist,16,24:56:0,12:30:0,12:21:0,59:21:0
@@ -25978,7 +25978,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 8822,Single-Player,Completionist,31,38:9:0,34:4:0,23:6:0,118:3:0
 8822,Single-Player,All PlayStyles,177,13:26:0,8:30:0,5:32:0,105:29:0
 8822,Speedruns,Any%,1,0:6:0,0:6:0,0:6:0,0:6:0
-8822,Multi-Player,Co-Op,1,0:5:0,0:5:0,0:5:0,0:5:0
+8822,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 8822,Multi-Player,Competitive,8,23:0:0,22:30:0,16:30:0,31:30:0
 8823,Single-Player,Main Story,32,2:59:0,2:19:0,1:28:0,6:49:0
 8823,Single-Player,Main + Extras,28,13:15:0,10:6:0,8:2:0,30:20:0
@@ -26013,8 +26013,8 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 8832,Single-Player,Main Story,9,2:0:0,0:28:0,0:40:0,7:37:0
 8832,Single-Player,Main + Extras,1,10:0:0,10:0:0,10:0:0,10:0:0
 8832,Single-Player,All PlayStyles,10,2:48:0,0:31:0,0:53:0,7:49:0
-8832,Multi-Player,Co-Op,1,0:15:0,0:15:0,0:15:0,0:15:0
-8832,Multi-Player,Competitive,1,0:7:0,0:7:0,0:7:0,0:7:0
+8832,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
+8832,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 8833,Single-Player,Main Story,1200,11:28:0,11:11:0,8:5:0,15:40:0
 8833,Single-Player,Main + Extras,2000,14:54:0,14:25:0,10:30:0,24:19:0
 8833,Single-Player,Completionist,547,21:58:0,20:0:0,15:48:0,39:41:0
@@ -26164,8 +26164,8 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 8882,Single-Player,All PlayStyles,2,0:32:0,0:32:0,0:18:0,0:45:0
 8884,Single-Player,Completionist,5,63:52:0,0:2:0,15:59:0,175:7:0
 8884,Single-Player,All PlayStyles,5,63:52:0,0:2:0,15:59:0,175:7:0
-8884,Multi-Player,Co-Op,1,0:5:0,0:5:0,0:5:0,0:5:0
-8884,Multi-Player,Competitive,2,0:5:0,0:5:0,0:5:0,0:5:0
+8884,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
+8884,Multi-Player,Competitive,2,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 8886,Single-Player,Main Story,3,3:54:0,3:46:0,3:47:0,4:1:0
 8886,Single-Player,Main + Extras,1,4:30:0,4:30:0,4:30:0,4:30:0
 8886,Single-Player,Completionist,3,7:40:0,7:50:0,6:43:0,8:37:0
@@ -27746,7 +27746,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 9385,Single-Player,Main + Extras,13,8:32:0,8:0:0,7:8:0,11:38:0
 9385,Single-Player,Completionist,11,11:57:0,10:0:0,8:43:0,16:29:0
 9385,Single-Player,All PlayStyles,60,7:34:0,6:43:0,5:9:0,14:34:0
-9385,Multi-Player,Co-Op,1,0:5:0,0:5:0,0:5:0,0:5:0
+9385,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 9385,Multi-Player,Competitive,4,45:0:0,34:0:0,26:30:0,70:0:0
 9386,Single-Player,Main Story,415,15:2:0,15:0:0,9:43:0,27:33:0
 9386,Single-Player,Main + Extras,297,20:24:0,20:0:0,13:28:0,35:6:0
@@ -30131,7 +30131,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 10175,Single-Player,Completionist,11,1:22:0,1:0:0,0:53:0,2:29:0
 10175,Single-Player,All PlayStyles,118,0:55:0,0:50:0,0:38:0,2:20:0
 10175,Speedruns,Any%,1,0:45:0,0:45:0,0:45:0,0:45:0
-10175,Multi-Player,Co-Op,16,1:30:0,0:50:0,0:49:0,4:30:0
+10175,Multi-Player,Co-Op,16,1:30:0,0:0:Min,0:0:Min,4:30:0
 10175,Multi-Player,Competitive,1,45:0:0,45:0:0,45:0:0,45:0:0
 10176,Single-Player,Main Story,101,7:50:0,8:0:0,5:11:0,12:21:0
 10176,Single-Player,Main + Extras,35,12:25:0,12:0:0,8:6:0,24:6:0
@@ -30696,7 +30696,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 10362,Single-Player,Main + Extras,10,5:51:0,5:30:0,3:48:0,9:11:0
 10362,Single-Player,Completionist,1,7:0:0,7:0:0,7:0:0,7:0:0
 10362,Single-Player,All PlayStyles,79,2:6:0,1:19:0,1:6:0,7:13:0
-10362,Multi-Player,Co-Op,4,1:0:0,1:0:0,0:53:0,1:0:0
+10362,Multi-Player,Co-Op,4,1:0:0,1:0:0,0:0:Min,1:0:0
 10362,Multi-Player,Competitive,1,12:0:0,12:0:0,12:0:0,12:0:0
 10363,Single-Player,Main Story,59,8:45:0,8:1:0,5:20:0,15:11:0
 10363,Single-Player,Main + Extras,31,18:12:0,15:0:0,10:18:0,28:18:0
@@ -33273,7 +33273,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 11209,Single-Player,Main + Extras,23,15:19:0,14:30:0,9:11:0,27:27:0
 11209,Single-Player,Completionist,4,37:2:0,34:5:0,27:47:0,47:47:0
 11209,Single-Player,All PlayStyles,56,11:36:0,7:0:0,5:47:0,34:39:0
-11209,Multi-Player,Co-Op,1,0:16:0,0:16:0,0:16:0,0:16:0
+11209,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 11209,Multi-Player,Competitive,2,16:0:0,16:0:0,14:0:0,18:0:0
 11207,Single-Player,Main Story,2,1:45:0,1:45:0,1:7:0,2:22:0
 11207,Single-Player,All PlayStyles,2,1:45:0,1:45:0,1:7:0,2:22:0
@@ -35786,8 +35786,8 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 12431,Single-Player,All PlayStyles,5,10:25:0,10:0:0,6:16:0,16:0:0
 12432,Single-Player,Main Story,1,4:16:0,4:16:0,4:16:0,4:16:0
 12432,Single-Player,All PlayStyles,1,4:16:0,4:16:0,4:16:0,4:16:0
-12432,Multi-Player,Co-Op,1,0:30:0,0:30:0,0:30:0,0:30:0
-12432,Multi-Player,Competitive,1,0:30:0,0:30:0,0:30:0,0:30:0
+12432,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
+12432,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 12434,Single-Player,Main Story,1,4:0:0,4:0:0,4:0:0,4:0:0
 12434,Single-Player,Main + Extras,2,4:13:0,4:13:0,4:2:0,4:25:0
 12434,Single-Player,All PlayStyles,3,4:9:0,4:0:0,3:57:0,4:20:0
@@ -38727,7 +38727,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 14333,Single-Player,Completionist,4,32:58:0,30:45:0,21:38:0,45:25:0
 14333,Single-Player,All PlayStyles,51,9:14:0,5:36:0,4:12:0,33:12:0
 14333,Speedruns,Any%,1,1:5:0,1:5:0,1:5:0,1:5:0
-14333,Multi-Player,Co-Op,1,0:20:0,0:20:0,0:20:0,0:20:0
+14333,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 14333,Multi-Player,Competitive,3,7:30:0,4:30:0,4:0:0,10:30:0
 14334,Single-Player,Main Story,143,12:49:0,13:0:0,9:12:0,16:27:0
 14334,Single-Player,Main + Extras,68,20:37:0,20:0:0,14:39:0,33:39:0
@@ -38785,7 +38785,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 14345,Single-Player,Completionist,72,20:47:0,17:51:0,12:23:0,53:39:0
 14345,Single-Player,All PlayStyles,1800,7:42:0,6:40:0,5:26:0,47:35:0
 14345,Multi-Player,Co-Op,12,7:0:0,2:30:0,2:30:0,20:0:0
-14345,Multi-Player,Competitive,3,10:0:0,0:30:0,2:30:0,17:0:0
+14345,Multi-Player,Competitive,3,10:0:0,0:0:Min,2:30:0,17:0:0
 14346,Single-Player,Main Story,18,9:46:0,9:22:0,8:2:0,12:13:0
 14346,Single-Player,Main + Extras,11,42:36:0,40:41:0,25:46:0,70:49:0
 14346,Single-Player,Completionist,3,303:5:0,307:5:0,203:37:0,402:32:0
@@ -39684,8 +39684,8 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 14941,Single-Player,All PlayStyles,3,0:12:0,0:12:0,0:11:0,0:13:0
 14941,Speedruns,Any%,1,0:2:0,0:2:0,0:2:0,0:2:0
 14941,Speedruns,100%,1,0:3:0,0:3:0,0:3:0,0:3:0
-14941,Multi-Player,Co-Op,1,0:15:0,0:15:0,0:15:0,0:15:0
-14941,Multi-Player,Competitive,1,0:15:0,0:15:0,0:15:0,0:15:0
+14941,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
+14941,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 14942,Single-Player,Main Story,7,29:11:0,28:12:0,21:0:0,41:15:0
 14942,Single-Player,Main + Extras,6,127:3:0,150:0:0,84:15:0,169:15:0
 14942,Single-Player,All PlayStyles,13,74:21:0,32:21:0,33:20:0,126:40:0
@@ -42436,7 +42436,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 16771,Single-Player,Main + Extras,3,41:41:0,47:32:0,37:18:0,46:5:0
 16771,Single-Player,All PlayStyles,14,21:43:0,17:40:0,12:20:0,33:37:0
 16771,Multi-Player,Co-Op,2,26:0:0,26:0:0,24:0:0,27:30:0
-16771,Multi-Player,Competitive,1,0:49:0,0:49:0,0:49:0,0:49:0
+16771,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 16773,Single-Player,Main Story,4,1:40:0,1:30:0,1:22:0,2:2:0
 16773,Single-Player,Completionist,1,3:0:0,3:0:0,3:0:0,3:0:0
 16773,Single-Player,All PlayStyles,5,1:56:0,1:30:0,1:26:0,2:21:0
@@ -43563,7 +43563,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 17535,Single-Player,Completionist,34,4:31:0,4:0:0,2:56:0,8:37:0
 17535,Single-Player,All PlayStyles,59,3:23:0,2:30:0,1:38:0,7:58:0
 17535,Multi-Player,Co-Op,2,2:30:0,2:30:0,2:0:0,2:30:0
-17535,Multi-Player,Competitive,1,0:20:0,0:20:0,0:20:0,0:20:0
+17535,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 17536,Single-Player,Main Story,109,2:18:0,2:0:0,1:9:0,4:1:0
 17536,Single-Player,Main + Extras,112,7:2:0,5:15:0,3:16:0,28:4:0
 17536,Single-Player,Completionist,151,12:35:0,9:0:0,6:36:0,31:28:0
@@ -45697,7 +45697,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 19214,Single-Player,Main + Extras,15,14:56:0,10:34:0,9:7:0,24:2:0
 19214,Single-Player,Completionist,5,30:3:0,30:37:0,18:10:0,37:31:0
 19214,Single-Player,All PlayStyles,46,10:16:0,5:33:0,4:20:0,26:19:0
-19214,Multi-Player,Co-Op,1,0:33:0,0:33:0,0:33:0,0:33:0
+19214,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 19214,Multi-Player,Competitive,3,3:30:0,3:0:0,2:0:0,4:30:0
 19215,Single-Player,Main Story,68,5:47:0,5:0:0,3:18:0,13:33:0
 19215,Single-Player,Main + Extras,66,40:18:0,30:0:0,19:7:0,105:47:0
@@ -46679,8 +46679,8 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 19828,Single-Player,Main Story,4,4:29:0,4:47:0,3:54:0,4:55:0
 19828,Single-Player,Completionist,1,5:10:0,5:10:0,5:10:0,5:10:0
 19828,Single-Player,All PlayStyles,5,4:37:0,5:10:0,4:2:0,5:3:0
-19832,Multi-Player,Co-Op,1,0:39:0,0:39:0,0:39:0,0:39:0
-19832,Multi-Player,Competitive,1,0:39:0,0:39:0,0:39:0,0:39:0
+19832,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
+19832,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 19835,Single-Player,Main Story,17,0:26:0,0:22:0,0:13:0,1:3:0
 19835,Single-Player,Main + Extras,1,0:54:0,0:54:0,0:54:0,0:54:0
 19835,Single-Player,Completionist,2,0:47:0,0:47:0,0:41:0,0:53:0
@@ -47077,7 +47077,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 20094,Single-Player,Completionist,3,2:20:0,2:0:0,2:5:0,2:35:0
 20094,Single-Player,All PlayStyles,28,1:2:0,0:50:0,0:40:0,1:58:0
 20094,Multi-Player,Co-Op,4,16:0:0,4:30:0,5:30:0,32:0:0
-20094,Multi-Player,Competitive,1,0:40:0,0:40:0,0:40:0,0:40:0
+20094,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 20096,Single-Player,Main + Extras,1,35:0:0,35:0:0,35:0:0,35:0:0
 20096,Single-Player,All PlayStyles,1,35:0:0,35:0:0,35:0:0,35:0:0
 20097,Single-Player,Main Story,1,16:0:0,16:0:0,16:0:0,16:0:0
@@ -47742,7 +47742,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 20634,Single-Player,Completionist,14,74:0:0,73:51:0,61:22:0,103:52:0
 20634,Single-Player,All PlayStyles,77,42:10:0,35:0:0,26:47:0,86:12:0
 20634,Multi-Player,Co-Op,4,66:0:0,3:30:0,17:30:0,146:0:0
-20634,Multi-Player,Competitive,3,254:0:0,0:50:0,64:0:0,444:0:0
+20634,Multi-Player,Competitive,3,254:0:0,0:0:Min,64:0:0,444:0:0
 20637,Single-Player,Main Story,2,25:0:0,25:0:0,17:30:0,32:30:0
 20637,Single-Player,All PlayStyles,2,25:0:0,25:0:0,17:30:0,32:30:0
 20637,Speedruns,Any%,1,4:48:19,4:48:19,4:48:19,4:48:19
@@ -48600,8 +48600,8 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 21168,Single-Player,Main Story,22,1:20:0,1:0:0,0:49:0,2:35:0
 21168,Single-Player,Main + Extras,10,4:9:0,4:0:0,2:21:0,9:8:0
 21168,Single-Player,All PlayStyles,32,2:13:0,1:9:0,1:5:0,7:56:0
-21168,Multi-Player,Co-Op,1,0:25:0,0:25:0,0:25:0,0:25:0
-21168,Multi-Player,Competitive,3,1:30:0,1:30:0,0:57:0,2:0:0
+21168,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
+21168,Multi-Player,Competitive,3,1:30:0,1:30:0,0:0:Min,2:0:0
 21170,Single-Player,Main Story,3,40:29:0,39:27:0,30:59:0,49:59:0
 21170,Single-Player,Main + Extras,3,93:59:0,91:0:0,87:43:0,100:14:0
 21170,Single-Player,Completionist,6,130:34:0,134:35:0,106:35:0,162:42:0
@@ -48798,7 +48798,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 21258,Single-Player,All PlayStyles,764,13:54:0,11:10:0,8:4:0,86:37:0
 21258,Speedruns,Any%,3,2:0:45,1:59:23,1:32:52,2:30:0
 21258,Multi-Player,Co-Op,42,19:0:0,15:0:0,10:0:0,44:30:0
-21258,Multi-Player,Competitive,1,0:15:0,0:15:0,0:15:0,0:15:0
+21258,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 21259,Single-Player,Main Story,1,2:5:0,2:5:0,2:5:0,2:5:0
 21259,Single-Player,All PlayStyles,1,2:5:0,2:5:0,2:5:0,2:5:0
 21260,Single-Player,Main Story,296,4:37:0,4:11:0,2:57:0,8:12:0
@@ -54809,7 +54809,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 26147,Single-Player,Completionist,20,8:12:0,7:27:0,5:55:0,15:34:0
 26147,Single-Player,All PlayStyles,151,4:47:0,4:2:0,2:58:0,13:52:0
 26147,Multi-Player,Co-Op,13,5:30:0,5:0:0,3:30:0,8:30:0
-26147,Multi-Player,Competitive,1,0:30:0,0:30:0,0:30:0,0:30:0
+26147,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 26150,Single-Player,Main Story,126,13:0:0,12:42:0,9:50:0,17:55:0
 26150,Single-Player,Main + Extras,56,18:30:0,17:0:0,12:22:0,27:54:0
 26150,Single-Player,Completionist,15,34:15:0,33:0:0,25:4:0,47:18:0
@@ -55831,7 +55831,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 26928,Single-Player,Main + Extras,9,6:7:0,5:3:0,4:10:0,9:5:0
 26928,Single-Player,Completionist,4,12:54:0,13:19:0,8:48:0,16:47:0
 26928,Single-Player,All PlayStyles,28,5:29:0,3:16:0,2:49:0,12:26:0
-26928,Multi-Player,Co-Op,1,0:15:0,0:15:0,0:15:0,0:15:0
+26928,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 26928,Multi-Player,Competitive,2,9:30:0,9:30:0,6:0:0,13:0:0
 26930,Single-Player,Main Story,3,3:10:0,2:54:0,2:57:0,3:23:0
 26930,Single-Player,Completionist,1,2:54:0,2:54:0,2:54:0,2:54:0
@@ -58431,7 +58431,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 29826,Single-Player,Completionist,4,8:54:0,9:0:0,7:12:0,10:32:0
 29826,Single-Player,All PlayStyles,41,5:47:0,5:0:0,3:24:0,10:11:0
 29826,Multi-Player,Co-Op,2,6:30:0,6:30:0,4:0:0,9:0:0
-29826,Multi-Player,Competitive,1,0:46:0,0:46:0,0:46:0,0:46:0
+29826,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 29830,Single-Player,Main + Extras,1,2:30:0,2:30:0,2:30:0,2:30:0
 29830,Single-Player,Completionist,1,2:24:0,2:24:0,2:24:0,2:24:0
 29830,Single-Player,All PlayStyles,2,2:27:0,2:27:0,2:25:0,2:28:0
@@ -58699,7 +58699,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 30032,Single-Player,Completionist,5,14:55:0,17:30:0,12:19:0,17:6:0
 30032,Single-Player,All PlayStyles,18,10:19:0,8:13:0,6:8:0,14:53:0
 30032,Multi-Player,Co-Op,2,15:0:0,15:0:0,12:30:0,18:0:0
-30032,Multi-Player,Competitive,2,0:32:0,0:32:0,0:26:0,0:38:0
+30032,Multi-Player,Competitive,2,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 30033,Single-Player,Main Story,9,5:55:0,5:0:0,3:58:0,9:13:0
 30033,Single-Player,Main + Extras,2,4:6:0,4:6:0,3:37:0,4:35:0
 30033,Single-Player,Completionist,1,7:0:0,7:0:0,7:0:0,7:0:0
@@ -61486,8 +61486,8 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 32929,Single-Player,All PlayStyles,1,33:26:0,33:26:0,33:26:0,33:26:0
 32930,Single-Player,Main Story,3,1:36:0,0:20:0,0:39:0,2:33:0
 32930,Single-Player,All PlayStyles,3,1:36:0,0:20:0,0:39:0,2:33:0
-32932,Multi-Player,Co-Op,1,0:15:0,0:15:0,0:15:0,0:15:0
-32932,Multi-Player,Competitive,1,0:15:0,0:15:0,0:15:0,0:15:0
+32932,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
+32932,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 32933,Single-Player,Main Story,1,4:30:0,4:30:0,4:30:0,4:30:0
 32933,Single-Player,All PlayStyles,1,4:30:0,4:30:0,4:30:0,4:30:0
 32936,Single-Player,Main Story,1,0:45:0,0:45:0,0:45:0,0:45:0
@@ -62269,7 +62269,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 33705,Single-Player,Completionist,26,19:45:0,19:45:0,14:18:0,26:2:0
 33705,Single-Player,All PlayStyles,277,12:38:0,11:44:0,8:5:0,22:16:0
 33705,Multi-Player,Co-Op,25,13:0:0,12:0:0,6:30:0,22:30:0
-33705,Multi-Player,Competitive,1,0:15:0,0:15:0,0:15:0,0:15:0
+33705,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 33706,Single-Player,Main Story,4,5:31:0,4:33:0,4:31:0,7:1:0
 33706,Single-Player,Main + Extras,15,8:14:0,7:0:0,5:18:0,13:16:0
 33706,Single-Player,Completionist,1,10:0:0,10:0:0,10:0:0,10:0:0
@@ -63478,7 +63478,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 34843,Single-Player,Completionist,46,85:9:0,81:19:0,58:42:0,150:29:0
 34843,Single-Player,All PlayStyles,739,40:4:0,33:0:0,22:29:0,127:8:0
 34843,Multi-Player,Co-Op,1,31:0:0,31:0:0,31:0:0,31:0:0
-34843,Multi-Player,Competitive,1,0:30:0,0:30:0,0:30:0,0:30:0
+34843,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 34844,Single-Player,Main Story,4,6:13:0,6:44:0,4:57:0,7:14:0
 34844,Single-Player,Completionist,1,6:15:0,6:15:0,6:15:0,6:15:0
 34844,Single-Player,All PlayStyles,5,6:13:0,6:15:0,4:50:0,7:7:0
@@ -67347,7 +67347,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 39030,Single-Player,Completionist,244,12:49:0,11:39:0,8:29:0,26:7:0
 39030,Single-Player,All PlayStyles,622,10:31:0,9:45:0,6:34:0,25:4:0
 39030,Multi-Player,Co-Op,139,11:0:0,10:0:0,5:30:0,18:0:0
-39030,Multi-Player,Competitive,2,1:30:0,1:30:0,0:45:0,2:0:0
+39030,Multi-Player,Competitive,2,1:30:0,1:30:0,0:0:Min,2:0:0
 39031,Single-Player,Main Story,1,2:18:0,2:18:0,2:18:0,2:18:0
 39031,Single-Player,All PlayStyles,1,2:18:0,2:18:0,2:18:0,2:18:0
 39038,Single-Player,Main Story,4,0:4:0,0:2:0,0:1:0,0:6:0
@@ -73348,7 +73348,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 44889,Single-Player,Completionist,1,1:43:0,1:43:0,1:43:0,1:43:0
 44889,Single-Player,All PlayStyles,7,1:26:0,1:30:0,1:14:0,1:47:0
 44889,Multi-Player,Co-Op,1,1:0:0,1:0:0,1:0:0,1:0:0
-44889,Multi-Player,Competitive,1,0:5:0,0:5:0,0:5:0,0:5:0
+44889,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 44891,Single-Player,Main Story,4,1:26:0,1:23:0,1:22:0,1:32:0
 44891,Single-Player,Main + Extras,3,1:34:0,1:36:0,1:30:0,1:37:0
 44891,Single-Player,Completionist,6,1:50:0,1:55:0,1:42:0,1:56:0
@@ -74734,7 +74734,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 46204,Single-Player,Completionist,7,36:26:0,24:0:0,17:36:0,88:36:0
 46204,Single-Player,All PlayStyles,65,9:6:0,2:50:0,3:20:0,76:29:0
 46204,Multi-Player,Co-Op,3,3:30:0,3:0:0,2:30:0,4:0:0
-46204,Multi-Player,Competitive,3,0:51:0,1:0:0,0:45:0,0:57:0
+46204,Multi-Player,Competitive,3,0:0:Min,1:0:0,0:0:Min,0:0:Min
 46205,Single-Player,Main Story,1,0:21:0,0:21:0,0:21:0,0:21:0
 46205,Single-Player,Main + Extras,1,4:0:0,4:0:0,4:0:0,4:0:0
 46205,Single-Player,All PlayStyles,2,2:10:0,2:10:0,1:15:0,3:5:0
@@ -74995,7 +74995,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 46381,Single-Player,Completionist,245,47:26:0,44:6:0,29:53:0,107:53:0
 46381,Single-Player,All PlayStyles,1000,26:1:0,20:0:0,14:47:0,96:30:0
 46386,Multi-Player,Co-Op,522,7:0:0,6:0:0,5:0:0,23:0:0
-46386,Multi-Player,Competitive,6,2:30:0,1:0:0,0:54:0,4:0:0
+46386,Multi-Player,Competitive,6,2:30:0,1:0:0,0:0:Min,4:0:0
 46387,Single-Player,Main Story,63,14:9:0,14:0:0,11:2:0,18:32:0
 46387,Single-Player,Main + Extras,150,29:14:0,26:18:0,18:53:0,72:42:0
 46387,Single-Player,Completionist,28,62:20:0,51:37:0,44:19:0,110:59:0
@@ -75148,7 +75148,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 46464,Single-Player,Completionist,174,48:38:0,45:0:0,35:54:0,88:24:0
 46464,Single-Player,All PlayStyles,1300,29:25:0,25:0:0,20:6:0,78:36:0
 46464,Multi-Player,Co-Op,3,8:30:0,2:0:0,3:0:0,14:0:0
-46464,Multi-Player,Competitive,2,1:30:0,1:30:0,0:56:0,2:0:0
+46464,Multi-Player,Competitive,2,1:30:0,1:30:0,0:0:Min,2:0:0
 46467,Single-Player,Main Story,15,94:39:0,95:30:0,52:2:0,147:32:0
 46467,Single-Player,Main + Extras,15,298:32:0,300:0:0,181:8:0,522:5:0
 46467,Single-Player,Completionist,6,2756:15:0,1900:23:0,1647:2:0,5478:39:0
@@ -79710,7 +79710,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 51209,Single-Player,All PlayStyles,112,6:52:0,4:0:0,3:19:0,82:54:0
 51209,Speedruns,Any%,2,1:28:13,1:28:13,1:24:26,1:32:0
 51209,Multi-Player,Co-Op,6,28:30:0,2:30:0,8:0:0,88:0:0
-51209,Multi-Player,Competitive,1,0:30:0,0:30:0,0:30:0,0:30:0
+51209,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 51210,Single-Player,Main Story,3,6:17:0,4:34:0,4:51:0,7:42:0
 51210,Single-Player,Main + Extras,2,6:0:0,6:0:0,5:0:0,7:0:0
 51210,Single-Player,Completionist,8,5:33:0,5:10:0,4:44:0,7:5:0
@@ -82206,7 +82206,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 53771,Single-Player,Completionist,23,5:29:0,5:10:0,4:14:0,7:9:0
 53771,Single-Player,All PlayStyles,87,4:19:0,4:0:0,3:4:0,7:21:0
 53771,Multi-Player,Co-Op,8,4:0:0,4:0:0,3:0:0,6:30:0
-53771,Multi-Player,Competitive,1,0:30:0,0:30:0,0:30:0,0:30:0
+53771,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 53774,Single-Player,Completionist,1,7:4:0,7:4:0,7:4:0,7:4:0
 53774,Single-Player,All PlayStyles,1,7:4:0,7:4:0,7:4:0,7:4:0
 53783,Single-Player,Main Story,1,0:10:0,0:10:0,0:10:0,0:10:0
@@ -85433,8 +85433,8 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 57478,Single-Player,Main + Extras,380,30:26:0,25:0:0,17:14:0,80:32:0
 57478,Single-Player,Completionist,61,131:15:0,119:24:0,80:10:0,199:10:0
 57478,Single-Player,All PlayStyles,1000,25:12:0,12:30:0,11:8:0,145:55:0
-57478,Multi-Player,Co-Op,4,1:30:0,0:45:0,0:36:0,2:0:0
-57478,Multi-Player,Competitive,2,1:0:0,1:0:0,0:41:0,1:30:0
+57478,Multi-Player,Co-Op,4,1:30:0,0:0:Min,0:0:Min,2:0:0
+57478,Multi-Player,Competitive,2,1:0:0,1:0:0,0:0:Min,1:30:0
 57479,Single-Player,Main Story,2800,9:4:0,8:30:0,5:20:0,14:25:0
 57479,Single-Player,Main + Extras,2200,16:0:0,14:30:0,10:4:0,49:13:0
 57479,Single-Player,Completionist,375,37:26:0,34:0:0,25:6:0,69:57:0
@@ -85528,7 +85528,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 57518,Single-Player,All PlayStyles,562,12:23:0,8:41:0,6:55:0,60:7:0
 57518,Speedruns,Any%,1,3:7:16,3:7:16,3:7:16,3:7:16
 57518,Multi-Player,Co-Op,147,13:30:0,9:0:0,6:0:0,78:0:0
-57518,Multi-Player,Competitive,4,1:30:0,1:0:0,0:49:0,2:0:0
+57518,Multi-Player,Competitive,4,1:30:0,1:0:0,0:0:Min,2:0:0
 57519,Single-Player,Main Story,911,25:16:0,25:0:0,15:42:0,36:17:0
 57519,Single-Player,Main + Extras,791,37:31:0,33:48:0,22:50:0,140:20:0
 57519,Single-Player,Completionist,235,57:19:0,50:0:0,39:59:0,206:49:0
@@ -85573,7 +85573,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 57532,Single-Player,Completionist,6,40:40:0,32:0:0,29:30:0,51:23:0
 57532,Single-Player,All PlayStyles,139,20:23:0,18:10:0,13:36:0,42:51:0
 57532,Multi-Player,Co-Op,2,7:0:0,7:0:0,4:30:0,9:30:0
-57532,Multi-Player,Competitive,1,0:42:0,0:42:0,0:42:0,0:42:0
+57532,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 57531,Single-Player,Main Story,5,32:51:0,32:0:0,21:12:0,41:35:0
 57531,Single-Player,Main + Extras,5,35:23:0,31:25:0,30:48:0,42:51:0
 57531,Single-Player,Completionist,1,37:21:0,37:21:0,37:21:0,37:21:0
@@ -86690,7 +86690,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 59307,Single-Player,Completionist,4,8:11:0,7:0:0,5:40:0,11:17:0
 59307,Single-Player,All PlayStyles,21,4:45:0,2:0:0,1:51:0,14:41:0
 59307,Multi-Player,Co-Op,2,5:30:0,5:30:0,3:30:0,8:0:0
-59307,Multi-Player,Competitive,1,0:56:0,0:56:0,0:56:0,0:56:0
+59307,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 59308,Single-Player,Main Story,4,0:31:0,0:30:0,0:29:0,0:33:0
 59308,Single-Player,Main + Extras,1,0:29:0,0:29:0,0:29:0,0:29:0
 59308,Single-Player,Completionist,2,0:32:0,0:32:0,0:31:0,0:33:0
@@ -89475,7 +89475,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 62411,Single-Player,Completionist,1,5:0:0,5:0:0,5:0:0,5:0:0
 62411,Single-Player,All PlayStyles,4,1:59:0,1:0:0,1:14:0,3:14:0
 62411,Multi-Player,Co-Op,1,100:0:0,100:0:0,100:0:0,100:0:0
-62411,Multi-Player,Competitive,1,0:58:0,0:58:0,0:58:0,0:58:0
+62411,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 62412,Single-Player,Main Story,119,15:42:0,15:0:0,10:30:0,21:58:0
 62412,Single-Player,Main + Extras,189,25:42:0,23:0:0,18:10:0,42:45:0
 62412,Single-Player,Completionist,263,42:11:0,38:40:0,26:27:0,87:48:0
@@ -91029,7 +91029,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 64060,Speedruns,Any%,3,0:47:3,0:49:10,0:33:36,0:58:24
 64060,Speedruns,100%,1,0:55:53,0:55:53,0:55:53,0:55:53
 64060,Multi-Player,Co-Op,17,3:30:0,2:0:0,2:0:0,16:30:0
-64060,Multi-Player,Competitive,2,0:15:0,0:15:0,0:15:0,0:16:0
+64060,Multi-Player,Competitive,2,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 64061,Single-Player,Main Story,10,0:47:0,0:32:0,0:31:0,1:43:0
 64061,Single-Player,Main + Extras,1,1:35:0,1:35:0,1:35:0,1:35:0
 64061,Single-Player,All PlayStyles,11,0:51:0,0:34:0,0:33:0,1:45:0
@@ -94072,7 +94072,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 67551,Speedruns,Any%,2,0:5:9,0:5:9,0:3:15,0:7:3
 67551,Speedruns,100%,1,0:5:19,0:5:19,0:5:19,0:5:19
 67551,Multi-Player,Co-Op,1,1:30:0,1:30:0,1:30:0,1:30:0
-67551,Multi-Player,Competitive,1,0:5:0,0:5:0,0:5:0,0:5:0
+67551,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 67553,Single-Player,Main Story,2,2:38:0,2:38:0,2:28:0,2:49:0
 67553,Single-Player,Completionist,1,3:0:0,3:0:0,3:0:0,3:0:0
 67553,Single-Player,All PlayStyles,3,2:45:0,3:0:0,2:35:0,2:56:0
@@ -94233,7 +94233,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 67709,Single-Player,Completionist,10,134:53:0,105:36:0,71:22:0,229:43:0
 67709,Single-Player,All PlayStyles,331,19:23:0,13:0:0,10:25:0,177:41:0
 67709,Multi-Player,Co-Op,63,17:30:0,14:0:0,9:0:0,70:30:0
-67709,Multi-Player,Competitive,1,0:30:0,0:30:0,0:30:0,0:30:0
+67709,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 67731,Single-Player,Completionist,1,5:0:0,5:0:0,5:0:0,5:0:0
 67731,Single-Player,All PlayStyles,1,5:0:0,5:0:0,5:0:0,5:0:0
 67793,Single-Player,Main + Extras,1,2:52:0,2:52:0,2:52:0,2:52:0
@@ -94437,7 +94437,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 67987,Single-Player,Completionist,29,110:47:0,94:0:0,71:11:0,224:44:0
 67987,Single-Player,All PlayStyles,265,50:18:0,37:0:0,25:49:0,195:22:0
 67987,Multi-Player,Co-Op,22,50:0:0,38:0:0,22:30:0,90:0:0
-67987,Multi-Player,Competitive,3,1:0:0,1:0:0,0:32:0,1:30:0
+67987,Multi-Player,Competitive,3,1:0:0,1:0:0,0:0:Min,1:30:0
 67988,Single-Player,Main Story,55,5:44:0,6:0:0,3:56:0,7:36:0
 67988,Single-Player,Main + Extras,55,7:25:0,7:0:0,5:36:0,12:49:0
 67988,Single-Player,Completionist,30,8:54:0,8:15:0,6:17:0,11:39:0
@@ -94964,7 +94964,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 68378,Single-Player,All PlayStyles,1900,3:28:0,2:50:0,1:59:0,17:57:0
 68378,Speedruns,Any%,38,0:31:49,0:29:41,0:8:32,0:58:0
 68378,Multi-Player,Co-Op,10,3:30:0,3:30:0,3:0:0,4:0:0
-68378,Multi-Player,Competitive,1,0:16:0,0:16:0,0:16:0,0:16:0
+68378,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 68379,Single-Player,Main + Extras,3,23:5:0,23:40:0,21:26:0,24:44:0
 68379,Single-Player,All PlayStyles,3,23:5:0,23:40:0,21:26:0,24:44:0
 68383,Single-Player,Main Story,35,4:50:0,5:0:0,3:57:0,7:17:0
@@ -104157,7 +104157,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 79149,Single-Player,Main Story,2,0:34:0,0:34:0,0:29:0,0:38:0
 79149,Single-Player,All PlayStyles,2,0:34:0,0:34:0,0:29:0,0:38:0
 79151,Multi-Player,Co-Op,1,6:30:0,6:30:0,6:30:0,6:30:0
-79151,Multi-Player,Competitive,1,0:20:0,0:20:0,0:20:0,0:20:0
+79151,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 79154,Single-Player,Main Story,1,2:0:0,2:0:0,2:0:0,2:0:0
 79154,Single-Player,Main + Extras,1,3:0:0,3:0:0,3:0:0,3:0:0
 79154,Single-Player,Completionist,1,6:0:0,6:0:0,6:0:0,6:0:0
@@ -104932,8 +104932,8 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 80010,Single-Player,All PlayStyles,1,1:0:0,1:0:0,1:0:0,1:0:0
 80011,Single-Player,Main Story,1,0:10:0,0:10:0,0:10:0,0:10:0
 80011,Single-Player,All PlayStyles,1,0:10:0,0:10:0,0:10:0,0:10:0
-80011,Multi-Player,Co-Op,1,0:54:0,0:54:0,0:54:0,0:54:0
-80011,Multi-Player,Competitive,1,0:54:0,0:54:0,0:54:0,0:54:0
+80011,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
+80011,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 80012,Single-Player,Main + Extras,1,0:42:0,0:42:0,0:42:0,0:42:0
 80012,Single-Player,Completionist,1,0:46:0,0:46:0,0:46:0,0:46:0
 80012,Single-Player,All PlayStyles,2,0:44:0,0:44:0,0:43:0,0:45:0
@@ -110941,8 +110941,8 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 86784,Single-Player,Main Story,5,0:40:0,0:41:0,0:35:0,0:43:0
 86784,Single-Player,Main + Extras,3,0:38:0,0:30:0,0:29:0,0:47:0
 86784,Single-Player,All PlayStyles,8,0:39:0,0:40:0,0:32:0,0:50:0
-86784,Multi-Player,Co-Op,3,0:50:0,0:35:0,0:36:0,1:0:0
-86784,Multi-Player,Competitive,1,0:30:0,0:30:0,0:30:0,0:30:0
+86784,Multi-Player,Co-Op,3,0:0:Min,0:0:Min,0:0:Min,1:0:0
+86784,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 86797,Single-Player,Main Story,1,29:0:0,29:0:0,29:0:0,29:0:0
 86797,Single-Player,Main + Extras,1,79:0:0,79:0:0,79:0:0,79:0:0
 86797,Single-Player,All PlayStyles,2,54:0:0,54:0:0,41:30:0,66:30:0
@@ -115617,7 +115617,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 93426,Single-Player,Main + Extras,7,96:56:0,102:40:0,69:54:0,133:19:0
 93426,Single-Player,Completionist,6,173:17:0,162:0:0,129:19:0,221:26:0
 93426,Single-Player,All PlayStyles,28,88:6:0,65:0:0,43:16:0,175:54:0
-93426,Multi-Player,Co-Op,1,0:34:0,0:34:0,0:34:0,0:34:0
+93426,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 93426,Multi-Player,Competitive,34,98:30:0,63:30:0,44:0:0,323:0:0
 93427,Single-Player,Main Story,5,30:34:0,29:54:0,25:7:0,40:7:0
 93427,Single-Player,Main + Extras,10,38:37:0,34:12:0,28:9:0,58:12:0
@@ -118452,8 +118452,8 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 97384,Single-Player,All PlayStyles,17,7:12:0,4:0:0,3:48:0,17:18:0
 97385,Single-Player,Main Story,1,0:30:0,0:30:0,0:30:0,0:30:0
 97385,Single-Player,All PlayStyles,1,0:30:0,0:30:0,0:30:0,0:30:0
-97390,Multi-Player,Co-Op,3,1:0:0,0:59:0,0:49:0,1:30:0
-97390,Multi-Player,Competitive,1,0:2:0,0:2:0,0:2:0,0:2:0
+97390,Multi-Player,Co-Op,3,1:0:0,0:0:Min,0:0:Min,1:30:0
+97390,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 97398,Single-Player,Main Story,1,5:0:0,5:0:0,5:0:0,5:0:0
 97398,Single-Player,All PlayStyles,1,5:0:0,5:0:0,5:0:0,5:0:0
 97399,Single-Player,Completionist,2,2:10:0,2:10:0,1:54:0,2:26:0
@@ -121054,7 +121054,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 100947,Single-Player,Main Story,2,5:27:0,5:27:0,4:12:0,6:42:0
 100947,Single-Player,All PlayStyles,2,5:27:0,5:27:0,4:12:0,6:42:0
 100948,Multi-Player,Co-Op,3,2:0:0,2:0:0,1:30:0,2:0:0
-100948,Multi-Player,Competitive,1,0:33:0,0:33:0,0:33:0,0:33:0
+100948,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 100950,Single-Player,Main Story,1,1:5:0,1:5:0,1:5:0,1:5:0
 100950,Single-Player,All PlayStyles,1,1:5:0,1:5:0,1:5:0,1:5:0
 100962,Single-Player,Main Story,1,7:5:0,7:5:0,7:5:0,7:5:0
@@ -122894,7 +122894,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 103822,Single-Player,Completionist,5,23:6:0,10:0:0,12:16:0,47:46:0
 103822,Single-Player,All PlayStyles,92,6:12:0,4:45:0,3:30:0,42:14:0
 103822,Multi-Player,Co-Op,1,2:0:0,2:0:0,2:0:0,2:0:0
-103822,Multi-Player,Competitive,1,0:20:0,0:20:0,0:20:0,0:20:0
+103822,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 103824,Single-Player,Main Story,32,4:30:0,3:0:0,2:4:0,14:22:0
 103824,Single-Player,Main + Extras,20,15:8:0,12:45:0,8:58:0,23:58:0
 103824,Single-Player,Completionist,4,160:13:0,165:27:0,121:25:0,196:25:0
@@ -128349,7 +128349,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 112684,Single-Player,Completionist,17,95:37:0,82:0:0,76:9:0,129:24:0
 112684,Single-Player,All PlayStyles,210,45:17:0,40:34:0,30:28:0,106:28:0
 112684,Multi-Player,Co-Op,3,20:30:0,25:0:0,13:30:0,28:0:0
-112684,Multi-Player,Competitive,1,0:15:0,0:15:0,0:15:0,0:15:0
+112684,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 112688,Single-Player,Main Story,4,16:30:0,19:30:0,12:30:0,19:0:0
 112688,Single-Player,Main + Extras,4,18:50:0,20:30:0,14:30:0,22:20:0
 112688,Single-Player,All PlayStyles,8,17:40:0,19:30:0,12:47:0,21:47:0
@@ -128482,7 +128482,7 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 112855,Speedruns,Any%,1,0:9:37,0:9:37,0:9:37,0:9:37
 112855,Speedruns,100%,1,0:7:27,0:7:27,0:7:27,0:7:27
 112858,Multi-Player,Co-Op,1,1:0:0,1:0:0,1:0:0,1:0:0
-112858,Multi-Player,Competitive,1,0:20:0,0:20:0,0:20:0,0:20:0
+112858,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 112872,Single-Player,Main Story,6,4:1:0,4:6:0,3:26:0,4:45:0
 112872,Single-Player,Main + Extras,3,5:25:0,5:18:0,5:10:0,5:39:0
 112872,Single-Player,Completionist,12,5:41:0,5:42:0,5:0:0,6:41:0
@@ -134368,8 +134368,8 @@ gameId,categoryName,playstyleName,polled,average,median,fastest,slowest
 127140,Single-Player,All PlayStyles,3,0:38:0,0:41:0,0:30:0,0:45:0
 127159,Single-Player,Main + Extras,1,0:5:0,0:5:0,0:5:0,0:5:0
 127159,Single-Player,All PlayStyles,1,0:5:0,0:5:0,0:5:0,0:5:0
-127158,Multi-Player,Co-Op,1,0:30:0,0:30:0,0:30:0,0:30:0
-127158,Multi-Player,Competitive,1,0:30:0,0:30:0,0:30:0,0:30:0
+127158,Multi-Player,Co-Op,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
+127158,Multi-Player,Competitive,1,0:0:Min,0:0:Min,0:0:Min,0:0:Min
 127160,Single-Player,Completionist,1,1:10:0,1:10:0,1:10:0,1:10:0
 127160,Single-Player,All PlayStyles,1,1:10:0,1:10:0,1:10:0,1:10:0
 127161,Single-Player,Main Story,3,1:7:0,1:0:0,0:52:0,1:21:0
